@@ -1,0 +1,25 @@
+{
+  "can_baud": {
+    "baud": 1000,
+    "sjw": 0,
+    "psc": 0,
+    "bs1": 0,
+    "bs2": 0
+  },
+  "work_mode": "Normal",
+  "frame_type": "standard",
+  "frame_id": 0,
+  "data_type": "data",
+  "dlc": 8,
+  "time_stamp": 0,
+  "receive_fifo_num": 0,
+  "filter": {
+    "number": 14,
+    "mode": 0,
+    "scale": 1,
+    "id_high": "0",
+    "id_low": "0x11c",
+    "mask_id_high": "0xFFFF",
+    "mask_id_low": "0xFFFF"
+  }
+}

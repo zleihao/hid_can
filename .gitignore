@@ -38,3 +38,5 @@ dist
 CMakeLists.txt
 cmake-build-debug
 *.mk
+
+/target
